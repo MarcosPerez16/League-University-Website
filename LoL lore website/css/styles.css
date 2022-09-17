@@ -1,0 +1,249 @@
+
+* {
+
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.container-fluid{
+
+    padding: 3% 15%;
+     
+ }
+ 
+
+.page-title {
+
+text-align: center;
+font-weight: bold;
+}
+
+
+
+    /* Header/ Top Container */
+
+.irelia-img {
+
+width:  50%;
+padding-bottom: 10px;
+
+   
+}
+
+.zed-img {
+    width:  50%;
+    padding-bottom: 10px;
+    
+     
+}
+
+.lucian-img {
+    width:  50%;
+    padding-bottom: 10px;
+    
+     
+}
+
+
+
+
+
+.row {
+        display: flex;
+        text-align: center;
+      }
+
+
+.column {
+    
+    flex: 33.33%;
+  padding: 5px;
+    
+}
+
+#title {
+
+    background-color: #c4b998;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+    /* NAV Bar */
+
+
+    .navbar {
+
+        padding:0 0 4.5rem;
+        
+    }
+
+
+    
+
+
+.nav-item {
+    padding: 0 18px;
+    
+}
+
+.nav-link {
+
+}
+
+.league-logo {
+
+    width: 10%;
+    border-radius: 50%;
+    
+    
+  
+
+}
+
+
+
+
+
+
+        /* Table */
+  
+
+
+
+        .table-info {
+            width: 50%;
+             text-align: center;
+             border: 2px solid;
+             margin: auto;
+             background-color: blanchedalmond;
+         }
+
+
+
+    .table-row {
+
+
+            border: 2px solid;
+            
+        }
+
+       
+
+
+        .table-data {
+
+        border: 2px solid;
+        
+        }
+
+
+        .table-header {
+
+height: 70px;
+
+        }
+
+
+
+
+
+
+
+
+            /* Middle Container */
+
+
+
+
+
+        .middle-container {
+
+            background-color: #c4b998;
+        }
+
+
+        .fighter-img {
+            width: 15%;
+            height: auto;
+            padding: 60px;
+            object-fit: cover;
+            
+        }
+
+        .assassin-img {
+            width: 15%;
+            height: auto;
+            padding: 60px;
+            object-fit: cover; 
+            
+
+        }
+
+        .marksman-img {
+
+            width: 15%;
+            height: auto;
+            padding: 60px;
+            object-fit: cover;
+            
+        }
+
+        .row-two {
+        
+            margin: auto;
+          }
+    
+
+        
+
+         .class-images {
+            display: flex;
+            justify-content: center;
+            
+
+         }
+
+
+
+                /* Footer */
+
+
+
+                .buttons {
+
+
+                    background-color: #c4b998;
+                    text-align: center;
+                }
+
+
+        #footer {
+
+            background-color: blanchedalmond;
+            position: relative;
+            height: 100px;
+           
+            clear: both;
+           
+        }
+
+
+        .bottom-container {
+            min-height: 100%;
+            background-color: #c4b998;
+            
+
+        }
+
+
+
+
+        .footer-title {
+
+
+            text-align: center;
+            text-decoration: underline;
+        }
+
